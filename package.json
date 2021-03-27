@@ -1,8 +1,8 @@
 {
   "name": "@luaks/match",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small library to provide pattern matching functionality.",
-  "main": "index.js",
+  "main": "match.js",
   "scripts": {
     "build": "tsc",
     "test": "jest",
